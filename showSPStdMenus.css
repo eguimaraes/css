@@ -1,0 +1,12 @@
+#pageStatusBar,
+#s4-ribbonrow,
+#suiteBarDelta,
+#s4-titlerow,
+#sideNavBox
+ {
+    display:block!important;
+ }
+ 
+#WebPartContent{
+	background-color:white!important;
+}
