@@ -1,12 +1,21 @@
+#DeltaPlaceHolderMain{
+	margin-top:2%!important;
+	min-width:80%!important;
+
+}
+
 #pageStatusBar,
 #s4-ribbonrow,
 #suiteBarDelta,
 #s4-titlerow,
 #sideNavBox
  {
-    display:none!important;
+    display:none!important
  }
- 
-#WebPartContent{
-	background-color:white!important;
+
+ #contentBox {
+    margin-right: 20px;
+    margin-left: 20px;
+    min-width: 703px;
+   
 }
