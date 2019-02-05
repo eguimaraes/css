@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #pageStatusBar,
 #s4-ribbonrow,
 #suiteBarDelta,
@@ -10,3 +11,26 @@
 #WebPartContent{
 	background-color:white!important;
 }
+
+#DeltaPlaceHolderMain{
+	margin-top:2%!important;
+	min-width:80%!important;
+
+}
+
+#pageStatusBar,
+#s4-ribbonrow,
+#suiteBarDelta,
+#s4-titlerow,
+#sideNavBox
+ {
+    display:none!important
+ }
+
+ #contentBox {
+    margin-right: 20px;
+    margin-left: 20px;
+    min-width: 703px;
+   
+}
+>>>>>>> c16d02a2b882608df11d8f4a64902f6f785d6554
